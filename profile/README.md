@@ -1,5 +1,13 @@
 # DOMICON
 
+Testnet is online now!
+
+If you want to join the Domicon as a broadcast node, please check the [document](https://github.com/domicon-labs/document/blob/main/pages/add-domicon-from-source_english.md)
+
+If you want to build a op rollup with Domicon as DA layer, please check the [document](https://github.com/domicon-labs/document/blob/main/domiconRollup/Domicon-OP-Stack-EN.md)
+
+If you want to public your DA data to Domicon, please check the [document](https://github.com/domicon-labs/document/blob/main/domiconRollup/publishDA-EN.md)
+
 ## 1. What is Domicon?
 
 Domicon is an Ethereum bandwidth scaling solution designed to provide secure and efficient **data availability** (DA) services for Layer 2/Rollup ecosystem. It consists of a broadcast layer responsible for data broadcasting and a storage layer responsible for long-term data storage. Domicon's ingenious utilization of the Kate-Zaverucha-Goldberg (KZG) polynomial commitment enables data broadcasting, data sampling and aggregated auditing of full data, truly ensuring the integrity and reliability of data in propagation and storage.
