@@ -1,4 +1,4 @@
-# Domicon
+![logo](logo.png)
 
 ## 1. What is Domicon?
 
