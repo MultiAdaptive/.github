@@ -1,12 +1,14 @@
 # DOMICON
 
-Testnet is online now!
+Domicon Testnet v1 is live as of March 1, 2024
 
-If you want to join the Domicon as a broadcast node, please check the [document](https://github.com/domicon-labs/document/blob/main/pages/add-domicon-from-source_english.md)
+Join Domicon as a broadcast node -> [click here](https://github.com/domicon-labs/document/blob/main/pages/add-domicon-from-source_english.md)
 
-If you want to build a op rollup with Domicon as DA layer, please check the [document](https://github.com/domicon-labs/document/blob/main/domiconRollup/Domicon-OP-Stack-EN.md)
+Build a new OP rollup with Domicon as the DA layer -> [click here](https://github.com/domicon-labs/document/blob/main/domiconRollup/Domicon-OP-Stack-EN.md)
 
-If you want to public your DA data to Domicon, please check the [document](https://github.com/domicon-labs/document/blob/main/domiconRollup/publishDA-EN.md)
+Use existing rollup with Domicon as DA layer -> [click here](https://github.com/domicon-labs/document/blob/main/domiconRollup/publishDA-EN.md)
+
+Find out more about Domicon -> [click here](https://github.com/domicon-labs/document)
 
 ## 1. What is Domicon?
 
