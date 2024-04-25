@@ -6,6 +6,8 @@ Join Domicon as a broadcast node -> [click here](https://github.com/domicon-labs
 
 Build a new OP rollup with Domicon as the DA layer -> [click here](https://github.com/domicon-labs/document/blob/main/domiconRollup/Domicon-OP-Stack-EN.md)
 
+Build a new Oribt rollup with Domicon as the DA layer -> [click here](https://github.com/domicon-labs/document/blob/main/domiconRollup/Domicon-Orbit-anytrust-EN.md)
+
 Use existing rollup with Domicon as DA layer -> [click here](https://github.com/domicon-labs/document/blob/main/domiconRollup/publishDA-EN.md)
 
 Find out more about Domicon -> [click here](https://github.com/domicon-labs/document)
