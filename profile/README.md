@@ -1,6 +1,8 @@
 # DOMICON
 
-Domicon Testnet v1 is live as of March 1, 2024
+**[Our Data Availability solution on BTC and ETHEREUM](https://github.com/domicon-labs/document/blob/main/Domicon-Data-Availability-Solution.md)**
+
+Domicon Testnet v1 on Ethereum is live as of March 1, 2024
 
 Join Domicon as a broadcast node -> [click here](https://github.com/domicon-labs/document/blob/main/pages/add-domicon-from-source_english.md)
 
