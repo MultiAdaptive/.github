@@ -1,4 +1,4 @@
-# DOMICON
+# Multichain
 
 **[Our Data Availability solution on BTC and ETHEREUM](https://github.com/domicon-labs/document/blob/main/Domicon-Data-Availability-Solution.md)**
 
